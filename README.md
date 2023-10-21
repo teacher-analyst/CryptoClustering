@@ -1,4 +1,4 @@
-# leaflet-challenge
+# CryptoClustering - Unsupervised Learning 
 This project is part of Module 19 Challenge of the Monash University Data Analytics Bootcamp. 
 
 ## Project Description
